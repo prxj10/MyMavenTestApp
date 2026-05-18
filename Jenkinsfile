@@ -1,5 +1,3 @@
-gedit Jenkinsfile 
-
 pipeline {
     agent any
 
